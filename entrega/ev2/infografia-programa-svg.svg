@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+    <!-- Fondo -->
+    <rect width="800" height="1000" fill="#ffffff"/>
+    
+    <!-- Título -->
+    <rect x="50" y="20" width="700" height="80" fill="#2563eb" rx="10"/>
+    <text x="400" y="55" font-family="Arial" font-size="20" fill="white" text-anchor="middle" font-weight="bold">
+        PROGRAMA DE FORMACIÓN COMPLEMENTARIA
+    </text>
+    <text x="400" y="85" font-family="Arial" font-size="16" fill="white" text-anchor="middle">
+        Elaboración de Artículos Científicos en Actividades de Investigación
+    </text>
+
+    <!-- Información General -->
+    <rect x="50" y="120" width="340" height="180" fill="#bfdbfe" rx="10"/>
+    <text x="70" y="150" font-family="Arial" font-size="16" fill="#1e40af" font-weight="bold">
+        INFORMACIÓN GENERAL
+    </text>
+    <text x="70" y="180" font-family="Arial" font-size="14" fill="#1e3a8a">
+        • Duración: 120 horas
+    </text>
+    <text x="70" y="210" font-family="Arial" font-size="14" fill="#1e3a8a">
+        • Código: 02000118
+    </text>
+    <text x="70" y="240" font-family="Arial" font-size="14" fill="#1e3a8a">
+        • Sector: Transversal
+    </text>
+    <text x="70" y="270" font-family="Arial" font-size="14" fill="#1e3a8a">
+        • Versión: 1
+    </text>
+
+    <!-- Requisitos -->
+    <rect x="410" y="120" width="340" height="180" fill="#bbf7d0" rx="10"/>
+    <text x="430" y="150" font-family="Arial" font-size="16" fill="#166534" font-weight="bold">
+        REQUISITOS DE INGRESO
+    </text>
+    <text x="430" y="180" font-family="Arial" font-size="14" fill="#166534">
+        • Prueba de aptitud y motivación
+    </text>
+    <text x="430" y="210" font-family="Arial" font-size="14" fill="#166534">
+        • Miembro de equipos de investigación
+    </text>
+    <text x="430" y="240" font-family="Arial" font-size="14" fill="#166534">
+        • Competencias mínimas de ingreso
+    </text>
+
+    <!-- Resultados de Aprendizaje -->
+    <rect x="50" y="320" width="700" height="250" fill="#ddd6fe" rx="10"/>
+    <text x="70" y="350" font-family="Arial" font-size="16" fill="#5b21b6" font-weight="bold">
+        RESULTADOS DE APRENDIZAJE
+    </text>
+    <text x="70" y="380" font-family="Arial" font-size="14" fill="#5b21b6">
+        • Identificar el problema de investigación aplicada
+    </text>
+    <text x="70" y="410" font-family="Arial" font-size="14" fill="#5b21b6">
+        • Redactar el artículo científico según referentes técnicos
+    </text>
+    <text x="70" y="440" font-family="Arial" font-size="14" fill="#5b21b6">
+        • Verificar el escrito frente al objeto de investigación
+    </text>
+    <text x="70" y="470" font-family="Arial" font-size="14" fill="#5b21b6">
+        • Corregir el artículo según normas técnicas
+    </text>
+
+    <!-- Perfil del Instructor -->
+    <rect x="50" y="590" width="700" height="380" fill="#fed7aa" rx="10"/>
+    <text x="70" y="620" font-family="Arial" font-size="16" fill="#9a3412" font-weight="bold">
+        PERFIL DEL INSTRUCTOR
+    </text>
+    <text x="70" y="650" font-family="Arial" font-size="14" font-weight="bold" fill="#9a3412">
+        Formación Académica:
+    </text>
+    <text x="70" y="680" font-family="Arial" font-size="14" fill="#9a3412">
+        • Ciencias de la Información y Comunicación
+    </text>
+    <text x="70" y="710" font-family="Arial" font-size="14" fill="#9a3412">
+        • Licenciatura en Español y Lingüística
+    </text>
+    <text x="70" y="740" font-family="Arial" font-size="14" fill="#9a3412">
+        • Asistencia Administrativa
+    </text>
+    
+    <text x="70" y="780" font-family="Arial" font-size="14" font-weight="bold" fill="#9a3412">
+        Competencias:
+    </text>
+    <text x="70" y="810" font-family="Arial" font-size="14" fill="#9a3412">
+        • Habilidades investigativas
+    </text>
+    <text x="70" y="840" font-family="Arial" font-size="14" fill="#9a3412">
+        • Comunicación asertiva
+    </text>
+    <text x="70" y="870" font-family="Arial" font-size="14" fill="#9a3412">
+        • Dominio lector-escritura
+    </text>
+    <text x="70" y="900" font-family="Arial" font-size="14" fill="#9a3412">
+        • Manejo de TIC
+    </text>
+</svg>
